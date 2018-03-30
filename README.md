@@ -160,5 +160,19 @@
         Prediction accuracy for instances label > 50K is `0.84`.
         
         Overall Test Accuracy is `0.81`. 
+        
 
+      * Ensemble: Majority Vote for 7 Learned Classifiers
+   
+        Confusion matrix:
     
+        |                    | Truth <=50K   |  Truth >50K  | 
+        | ----------------   |-------------  |-------------  |
+        | Prediction <=50K   | 0.63          |    0.14       |
+        | Prediction >50K    | 0.04          |    0.20       |
+        
+        Prediction accuracy for instances label <= 50K is `0.82`.
+        
+        Prediction accuracy for instances label > 50K is `0.84`.
+        
+        Overall Test Accuracy is `0.83`.  
