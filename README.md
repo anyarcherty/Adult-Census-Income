@@ -57,13 +57,11 @@
      
    * Ensemble Learning
     
-        Each instance of training and test data is classified 0 (corresponding to less or equal than 50K dollars annually) or 1 (corresponding to greater than 50K annually) using the learned classifiers. Final prediction is made by taking a majority vote model among the predictions of these classifiers
+        Each instance of training and test data is classified 0 (corresponding to less or equal than 50K dollars annually) or 1 (corresponding to greater than 50K annually) using the learned classifiers.
+        
+        Final prediction is made by taking a majority vote model among the predictions of these classifiers
 
-#### 1.4 Model Comparsion
+#### 1.4 Result
 
-
-#### 1.5 Ensemble
-
-
-#### 1.6 Result
+   * Bagging Decision tree:
 
