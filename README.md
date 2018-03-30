@@ -53,9 +53,9 @@
   
       Classification algorithms:
   
-        K-nearest-neighborhood
+      `K-nearest-neighborhood`
   
-        Support Vector Machine
+      `Support Vector Machine`
   
         Logistic Regression
   
