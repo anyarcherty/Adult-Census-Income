@@ -68,15 +68,22 @@
    * Bagging Decision tree:
    
         Confusion matrix:
-        
-        
-       
     
-        | prediction         |  Truth        |   Truth       |
+        | Prediction         |  Truth        |   Truth       |
         | ----------------   |-------------  |-------------  | 
         |                    | <=50K         |    >50K       |
         | <=50K              | 0.63          |    0.13       |
         | >50K               | 0.05          |    0.19       |
+        
+        Prediction accuracy for instances label <= 50K is 0.83.
+        
+        Prediction accuracy for instances label > 50K is 0.80.
+        
+        Overall Test Accuracy is 0.80
+        
+    *
+        
+        
 
         
 
