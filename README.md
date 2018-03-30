@@ -21,21 +21,21 @@
 #### 1.2 Data Preprocess
 
   
-  * 1.2.1 Transforming Feature
+  * Transforming Feature
   
       ```
       Transforming Attributes containing string values into numerical values by assigning a unique numerical value to a string        value for each feature. 
       ```
   
   
-  * 1.2.2 Imputing missing values
+  * Imputing missing values
   
       ```
       Imputate the missing values by the feature mode.
       ```
   
   
-  * 1.2.3 Dealing with imbalanced data
+  * Dealing with imbalanced data
        
        ```
        Implement Bagging method with Undersampling to balance the data.
@@ -44,15 +44,14 @@
 #### 1.3 Model Selection
   
   
-  * 1.3.1 Random Sampling of Training Data
-  
+  * Random Sampling of Training Data
+      
+      From training dataset, use Undersampling method by selecting a subset of the majority examples to match the number of minority examples to create a balanced dataset.
         
-        From training dataset, use Undersampling method by selecting a subset of the majority examples to match the number of minority examples to create a balanced dataset.
-        
   
-  * 1.3.2 Building Classifier
+  * Building Classifier
   
-        Classification algorithms:
+      Classification algorithms:
   
         K-nearest-neighborhood
   
