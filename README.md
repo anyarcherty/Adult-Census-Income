@@ -166,10 +166,11 @@
    
         Confusion matrix:
     
-        | Confusion Matrix   | Truth <=50K   |  Truth >50K   | 
-        | -------------------|---------------|---------------|
-        | Prediction <=50K   | 0.63          |    0.14       |
-        | Prediction >50K    | 0.04          |    0.20       |
+        | Prediction         |  Truth        |   Truth       |
+        | ----------------   |-------------  |-------------  | 
+        |                    | <=50K         |    >50K       |
+        | <=50K              | 0.63          |    0.15       |
+        | >50K               | 0.04          |    0.20       |
         
         Prediction accuracy for instances label <= 50K is `0.82`.
         
