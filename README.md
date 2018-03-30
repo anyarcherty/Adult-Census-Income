@@ -39,10 +39,29 @@
 
 #### 1.3 Model Selection
   
-  
-  1.3.1 Random Sampling of Training Data
   ```
+  1.3.1 Random Sampling of Training Data
   From training dataset, use Undersampling method by selecting a subset of the majority examples to match the number of minority examples to create a balanced dataset.
+  ```
+  
+  ```
+  1.3.2 Building Classifiers
+  
+  Classification algorithms:
+  
+  `K-nearest-neighborhood`
+  
+  `Support Vector Machine`
+  
+  `Logistic Regression`
+  
+  `Random Forest`
+  
+  `Navie Bayes`
+  
+  `Decision Tree`
+  
+  `Adaboost Decision Tree`
   ```
 
 #### 1.4 Model Comparsion
