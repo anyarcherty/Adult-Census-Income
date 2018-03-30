@@ -15,7 +15,7 @@
   Salary, age, workclass, fnlwgt, education, education_num, marital-status, occupation, relationship, race, sex, capital-gain,
   capital-Loss, hours-per-week, native-country
   
-  The Salary Feature" is the label we want to predict.
+  The `Salary` Feature is the label we want to predict.
   
 #### 1.2 Data Preprocess
 
