@@ -6,15 +6,17 @@
 
 #### 1.1 Data Extraction
 
-  The Adult-Census-Income is from kaggle:
-  
+   * The Adult-Census-Income is from kaggle:
+   
+    ```
     https://www.kaggle.com/uciml/adult-census-income
-
-  The dataset include Features:
+    ```
+    
+   * The dataset include Features:
 
     Salary, age, workclass, fnlwgt, education, education_num, marital-status, occupation, relationship, race, sex, capital-gain,capital-Loss, hours-per-week, native-country
   
-  The `Salary` Feature is the label we want to predict.
+   * The `Salary` Feature is the label we want to predict.
   
 #### 1.2 Data Preprocess
 
