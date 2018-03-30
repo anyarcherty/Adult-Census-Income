@@ -19,11 +19,12 @@
   
 #### 1.2 Data Preprocess
 
-  ```
-  1.2.1 Transforming Feature
   
-  Transforming Attributes containing string values into numerical values by assigning a unique numerical value to a string value for each feature. 
-  ```
+  * 1.2.1 Transforming Feature
+  
+      ```
+      Transforming Attributes containing string values into numerical values by assigning a unique numerical value to a string        value for each feature. 
+      ```
   
   
   * 1.2.2 Imputing missing values
@@ -32,38 +33,39 @@
       Imputate the missing values by the feature mode.
       ```
   
-  ```
-  1.2.3 Dealing with imbalanced data
   
-  Implement Bagging method with Undersampling to balance the data.
-  ```
+  * 1.2.3 Dealing with imbalanced data
+       
+       ```
+       Implement Bagging method with Undersampling to balance the data.
+       ```
 
 #### 1.3 Model Selection
   
-  ```
-  1.3.1 Random Sampling of Training Data
-  From training dataset, use Undersampling method by selecting a subset of the majority examples to match the number of minority examples to create a balanced dataset.
-  ```
   
-  ```
-  1.3.2 Building Classifiers
+  * 1.3.1 Random Sampling of Training Data
   
-  Classification algorithms:
+        ```
+        From training dataset, use Undersampling method by selecting a subset of the majority examples to match the number of minority examples to create a balanced dataset.
+        ```
   
-  `K-nearest-neighborhood`
+  * 1.3.2 Building Classifier
   
-  `Support Vector Machine`
+        Classification algorithms:
   
-  `Logistic Regression`
+        `K-nearest-neighborhood`
   
-  `Random Forest`
+        `Support Vector Machine`
   
-  `Navie Bayes`
+        `Logistic Regression`
   
-  `Decision Tree`
+        `Random Forest`
   
-  `Adaboost Decision Tree`
-  ```
+        `Navie Bayes`
+  
+        `Decision Tree`
+  
+        `Adaboost Decision Tree`
 
 #### 1.4 Model Comparsion
 
