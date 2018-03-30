@@ -166,7 +166,7 @@
    
         Confusion matrix:
     
-        |                    | Truth <=50K   |  Truth >50K  | 
+        |  Confusion Matrix  | Truth <=50K   |  Truth >50K  | 
         | ----------------   |-------------  |-------------  |
         | Prediction <=50K   | 0.63          |    0.14       |
         | Prediction >50K    | 0.04          |    0.20       |
