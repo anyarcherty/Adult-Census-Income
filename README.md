@@ -54,6 +54,10 @@
       Classification algorithms:
   
       `K-nearest-neighborhood`, `Support Vector Machine`, `Logistic Regression`, `Random Forest`, `Navie Bayes`, `Decision Tree`, `Adaboost Decision Tree`
+     
+   * Ensemble Learning
+    
+        Each instance of training and test data is classified 0 (corresponding to less or equal than 50K dollars annually) or 1 (corresponding to greater than 50K annually) using the learned classifiers. Final prediction is made by taking a majority vote model among the predictions of these classifiers
 
 #### 1.4 Model Comparsion
 
