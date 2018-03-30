@@ -28,14 +28,14 @@
       ```
   
   
-  * Imputing missing values
+  * Imputing Missing Values
   
       ```
       Imputate the missing values by the feature mode.
       ```
   
   
-  * Dealing with imbalanced data
+  * Dealing with Imbalanced Data
        
        ```
        Implement Bagging method with Undersampling to balance the data.
@@ -53,19 +53,7 @@
   
       Classification algorithms:
   
-      `K-nearest-neighborhood`
-  
-      `Support Vector Machine`
-  
-        Logistic Regression
-  
-        Random Forest
-  
-        Navie Bayes
-  
-        Decision Tree
-  
-        Adaboost Decision Tree
+      `K-nearest-neighborhood`, `Support Vector Machine`, `Logistic Regression`, `Random Forest`, `Navie Bayes`, `Decision Tree`, `Adaboost Decision Tree`
 
 #### 1.4 Model Comparsion
 
