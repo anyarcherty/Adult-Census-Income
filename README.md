@@ -62,6 +62,22 @@
         Final prediction is made by taking a majority vote model among the predictions of these classifiers
 
 #### 1.4 Result
-
+   
+   The result is shown by the confusion matrix
+   
    * Bagging Decision tree:
+   
+        Confusion matrix:
+        
+        
+        | Prediction         | Truth                         | 
+        
+        | ----------------   |:-------------:|:-------------:|
+        |                    |  <=50K        |    >50K       |
+        | ----------------   |:-------------:|:-------------:| 
+        | <=50K              | 0.63          |    0.13       |
+        | >50K               |   0.05        |    0.19       |
 
+        
+
+    
