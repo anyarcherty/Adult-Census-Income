@@ -25,9 +25,9 @@
   Transforming Attributes containing string values into numerical values by assigning a unique numerical value to a string value for each feature. 
   ```
   
-  ```
-  1.2.2 Imputing missing values
   
+  * 1.2.2 Imputing missing values
+  ```
   Imputate the missing values by the feature mode.
   ```
   
