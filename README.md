@@ -63,8 +63,6 @@
 
 #### 1.4 Result
    
-   The result is shown by the confusion matrix
-   
    * Bagging Decision tree:
    
         Confusion matrix:
@@ -162,7 +160,7 @@
         Overall Test Accuracy is `0.81`. 
         
 
-      * Ensemble: Majority Vote for 7 Learned Classifiers
+   * Ensemble: Majority Vote for 7 Learned Classifiers
    
         Confusion matrix:
     
