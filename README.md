@@ -27,9 +27,10 @@
   
   
   * 1.2.2 Imputing missing values
-  ```
-  Imputate the missing values by the feature mode.
-  ```
+  
+      ```
+      Imputate the missing values by the feature mode.
+      ```
   
   ```
   1.2.3 Dealing with imbalanced data
