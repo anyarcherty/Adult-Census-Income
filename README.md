@@ -12,7 +12,7 @@
         https://www.kaggle.com/uciml/adult-census-income
    
     
-   * The dataset include Features:
+   * Dataset Features:
 
         Salary, age, workclass, fnlwgt, education, education_num, marital-status, occupation, relationship, race, sex, capital-gain,capital-Loss, hours-per-week, native-country
   
