@@ -2,7 +2,7 @@
 
 #### Purpose:
 
-  This project is to predict, as accurately as possible which category, either 50K+ or 50K-, that a person’s salary lies in. 
+  This project is to predict a person's salary lies in either 50K+ or 50K-. 
 
 #### 1.1 Data Extraction
 
