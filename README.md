@@ -24,16 +24,16 @@
   * Transforming Feature
   
       ```
-      Transforming Feature which contains string values into numerical values by assigning a unique numerical value to a string value for each feature. 
+      Transforming Features contains string values and convert them into numerical values.
       ```
       Method: Label Encoding, One-Hot Encoding
   
   * Imputing Missing Values
   
       ```
-      Imputate the missing values by the feature mode.
+      Imputating Features contains the missing values like NAN, ? or space.
       ```
-  
+      Method: Imputing Missing Value by Feature Mode
   
   * Dealing with Imbalanced Data
        
