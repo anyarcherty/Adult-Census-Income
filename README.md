@@ -33,7 +33,7 @@
       ```
       Imputating Features contains the missing values like NAN, ? or space.
       ```
-      Method: Imputing Missing Value by Feature Mode
+      Method: Feature Mode, Median and Mean
   
   * Dealing with Imbalanced Data
        
