@@ -38,7 +38,8 @@
   * Dealing with Imbalanced Data
        
        ```
-       Salary Feature is unbalanced labeled. The salary > 50k is around 80% and <= 50K is 20%.
+       Salary Feature is unbalanced labeled. 
+       The salary > 50k is around 80% and <= 50K is 20%.
        ```
       Method: Bagging and Undersampling
       
