@@ -24,9 +24,9 @@
   * Transforming Feature
   
       ```
-      Transforming Attributes containing string values into numerical values by assigning a unique numerical value to a string        value for each feature. 
+      Transforming Feature which contains string values into numerical values by assigning a unique numerical value to a string value for each feature. 
       ```
-  
+      Method: Label Encoding, One-Hot Encoding
   
   * Imputing Missing Values
   
@@ -51,7 +51,7 @@
   
   * Building Classifier
   
-      Classification algorithms:
+      Classification Algorithms Selected:
   
       `K-nearest-neighborhood`, `Support Vector Machine`, `Logistic Regression`, `Random Forest`, `Navie Bayes`, `Decision Tree`, `Adaboost Decision Tree`
      
