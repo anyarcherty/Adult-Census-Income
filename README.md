@@ -24,7 +24,8 @@
   * Transforming Feature
   
       ```
-      Some Features contains string values and convert them into numerical values.
+      Some Features contains string values, which can't be calculated in numpy library.
+      Convert categorical values into numerical values.
       ```
       Method: Label Encoding, One-Hot Encoding
   
@@ -32,6 +33,7 @@
   
       ```
       Some Features contain the missing values like NAN, ? or space.
+      Imputate missing value via feature mode.
       ```
       Method: Feature Mode, Median and Mean
   
