@@ -24,14 +24,14 @@
   * Transforming Feature
   
       ```
-      Transforming Features contains string values and convert them into numerical values.
+      Some Features contains string values and convert them into numerical values.
       ```
       Method: Label Encoding, One-Hot Encoding
   
   * Imputing Missing Values
   
       ```
-      Imputating Features contains the missing values like NAN, ? or space.
+      Some Features contain the missing values like NAN, ? or space.
       ```
       Method: Feature Mode, Median and Mean
   
