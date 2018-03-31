@@ -38,9 +38,10 @@
   * Dealing with Imbalanced Data
        
        ```
-       Implement Bagging method with Undersampling to balance the data.
+       Salary Feature is unbalanced labeled. The salary > 50k is around 80% and <= 50K is 20%.
        ```
-
+      Method: Bagging and Undersampling
+      
 #### 1.3 Model Selection
   
   
